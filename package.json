@@ -54,7 +54,7 @@
     "pre-commit": "./node_modules/.bin/nano-staged"
   },
   "devDependencies": {
-    "@modelcontextprotocol/sdk": "^1.10.0",
+    "@modelcontextprotocol/sdk": "^1.31.0",
     "@radix-ui/react-tooltip": "^1.2.4",
     "@storybook/addon-actions": "^8.6.4",
     "@storybook/addon-backgrounds": "^8.6.4",
