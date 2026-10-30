@@ -24,7 +24,7 @@
     "nanoid": "^5.1.5",
     "slugify": "^1.6.6",
     "type-fest": "^4.37.0",
-    "zod": "^4.4.3"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@webstudio-is/tsconfig": "workspace:*",

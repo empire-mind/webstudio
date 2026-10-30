@@ -15,7 +15,7 @@
     "@webstudio-is/plans": "workspace:*",
     "memoize": "^10.0.0",
     "ts-custom-error": "^3.3.1",
-    "zod": "^4.4.3"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@webstudio-is/postgrest": "workspace:*",
