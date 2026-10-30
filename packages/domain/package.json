@@ -16,7 +16,7 @@
     "@webstudio-is/sdk": "workspace:*",
     "@webstudio-is/trpc-interface": "workspace:*",
     "type-fest": "^4.37.0",
-    "zod": "^4.4.3"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@webstudio-is/tsconfig": "workspace:*",
